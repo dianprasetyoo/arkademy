@@ -1,0 +1,48 @@
+{
+  "name" : "Dian Prasetyo",
+  "age" : 25,
+  "address" : "Jl. Sekuntum Gg. Mawar No. 77 ",
+  "hobbies" : ["game","olahraga"],
+  "is_married" : false,
+  "list_school" : [
+    {
+      "name" : "uin suska riau",
+      "year_in" : "2012",
+      "year_out" : "2017",
+      "major" : "teknik informatika"
+    },
+    {
+      "name" : "smk ibnu taimiyah",
+      "year_in" : "2009",
+      "year_out" : "2012",
+      "major" : "teknik komputer dan jaringan"
+    },
+    {
+      "name" : "smp negeri 10 pekanbaru",
+      "year_in" : "2006",
+      "year_out" : "2009",
+      "major" : null
+    },
+    {
+      "name" : "sd negeri 017 pekanbaru",
+      "year_in" : "2000",
+      "year_out" : "2006",
+      "major" : null
+    }
+  ],
+  "skills" : [
+    {
+      "skill_name" : "php",
+      "level" : "beginner"
+    },
+    {
+      "skill_name" : "framework codeigniter",
+      "level" : "beginner"
+    },
+    {
+      "skill_name" : "my_sql",
+      "level" : "beginner"
+    }
+  ],
+"interest_in_coding" : true
+}
