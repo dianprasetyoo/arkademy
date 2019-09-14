@@ -1,0 +1,1 @@
+SELECT name.name,work.name as work, category.salary FROM name,work,category WHERE name.id_work=work.id and name.id_salary=category.id
